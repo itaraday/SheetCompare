@@ -1,0 +1,7 @@
+*.csv
+*.pyc
+*.project
+*.pydevproject
+/build
+/dist
+/__pycache__
